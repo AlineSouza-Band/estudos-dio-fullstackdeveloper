@@ -4,6 +4,7 @@ Link Dowloand : https://git-scm.com/downloads
 
 Comandos que usei. Criei esse diretório no git hub e adicionei uma nova pasta chamada Modulo 2 no git bash.
 Após criar esse diretório no Git hub, copiei o Code em HTML e colei no comando git clone
+
 $ git clone 
 $ cd estudos-dio-fullstackdeveloper
 $ git status
