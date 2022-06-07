@@ -1,7 +1,7 @@
 # estudos-dio-fullstackdeveloper
 Módulo 1
 
-###                        Introdução a programação :computer:
+###                                                     Introdução a programação :computer:
 
 "Ao estudar lógica de programação nos deparamos com alguns conceitos como: algoritmos, fluxogramas, pseudocódigo e sobre linguagem estruturada.
 
