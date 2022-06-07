@@ -132,6 +132,6 @@ Na educação está presente em quatro pilares:
 
 - **Algoritmos:** Criação de um grupo de regras para a solução de problemas. ""
 
-   Sites pesquisados: https://www.treinaweb.com.br/blog/guia-de-introducao-a-programacao
+   Fonte site: https://www.treinaweb.com.br/blog/guia-de-introducao-a-programacao
   
   https://idocode.com.br/blog/programacao/pensamento-computacional-por-que-e-importante-desenvolver/
