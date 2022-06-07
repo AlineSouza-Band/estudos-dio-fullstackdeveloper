@@ -3,7 +3,7 @@
 Link Dowloand : https://git-scm.com/downloads
 
 Criei esse diretório no git hub e adicionei uma nova pasta chamada Modulo 2 no git bash. Após criar esse diretório no Git hub, copiei o Code em HTML e colei no comando git clone.
-Comandos que eu usei:
+Comandos que eu usei no Git Bash:
 
 - $ git clone
 
