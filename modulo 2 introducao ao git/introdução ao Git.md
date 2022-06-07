@@ -2,19 +2,27 @@
 
 Link Dowloand : https://git-scm.com/downloads
 
-Comandos que usei. Criei esse diretório no git hub e adicionei uma nova pasta chamada Modulo 2 no git bash.
-Após criar esse diretório no Git hub, copiei o Code em HTML e colei no comando git clone
+Comandos que usei. Criei esse diretório no git hub e adicionei uma nova pasta chamada Modulo 2 no git bash. Após criar esse diretório no Git hub, copiei o Code em HTML e colei no comando git clone
 
-$ git clone 
-$ cd estudos-dio-fullstackdeveloper
-$ git status
-$ git add .
-$ git status
-$ git commit -m "inclusao do modulo 2 introdução ao git"
-$ git status
-$ git push origin main
+- $ git clone
 
-Comandos no Git :
+-  $ cd estudos-dio-fullstackdeveloper
+
+-  $ git status 
+
+- $ git add .
+
+-  $ git status 
+
+- $ git commit -m "inclusao do modulo 2 introdução ao git"
+
+-  $ git status
+
+- $ git push origin main
+
+  
+
+### Comandos no Git :
 
 #### "git config
 
