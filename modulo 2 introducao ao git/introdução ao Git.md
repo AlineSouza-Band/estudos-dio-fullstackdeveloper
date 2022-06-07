@@ -2,6 +2,17 @@
 
 Link Dowloand : https://git-scm.com/downloads
 
+Comandos que usei. Criei esse diretório no git hub e adicionei uma nova pasta chamada Modulo 2 no git bash.
+Após criar esse diretório no Git hub, copiei o Code em HTML e colei no comando git clone
+$ git clone 
+$ cd estudos-dio-fullstackdeveloper
+$ git status
+$ git add .
+$ git status
+$ git commit -m "inclusao do modulo 2 introdução ao git"
+$ git status
+$ git push origin main
+
 Comandos no Git :
 
 #### "git config
@@ -354,5 +365,6 @@ git pull origin develop
 **O git push** é o comando em que você transfere commits a partir do seu repositório local para um repositório remoto. É a contrapartida do **git fetch**, que busca importações e comprometem as agências locais, utilizando o **git push** as exportações comprometem as filiais remotas. Para fazer isso, você executa **git push [nome_do_repositório_remoto] [nome_da_sua_branch_local]**, que vai tentar fazer que o **[nome_do_repositório_remoto]** receba a sua branch **[nome_da_sua_branch_local]** contendo todos seus commits com alterações. Por exemplo:
 
 git push origin develop"
+
 
 Fonte Site: https://comandosgit.github.io/
